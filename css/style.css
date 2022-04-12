@@ -1,0 +1,35 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+button{
+  margin: 100px auto;
+  display: block;
+  font-size: 30px;
+}
+
+h3{
+  font-size: 20px;
+  margin: 50px;
+  text-align: center;
+}
+
+input{
+  margin: 50px auto;
+  text-align: center;
+  display: block;
+  font-size: 25px;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
